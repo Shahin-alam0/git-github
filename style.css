@@ -1,0 +1,13 @@
+global reset 
+
+h1 { color: red;
+	font-size: 50px;
+   }
+.class { background-color: blue;
+	font-family: arial
+}
+
+#id {
+ color: green;
+ font-size: 20 px
+}
